@@ -1,0 +1,49 @@
+<link rel="stylesheet" href="styles.css">
+body {
+  font-family: Georgia, serif;
+  margin: 2rem auto;
+  max-width: 800px;
+  line-height: 1.5;
+  background: #fff;
+  color: #000;
+}
+
+header p {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  text-align: right;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+aside {
+  float: right;
+  width: 250px;
+  background: #f4f4f4;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  font-size: 0.9rem;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 2px solid #000;
+  font-size: 0.85rem;
+  background: #e6f2e6;
+}
+footer p {
+  margin: 0.5rem 0;
+}
