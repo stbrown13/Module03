@@ -98,3 +98,19 @@ footer a { color: #e6ffed; text-decoration: underline; }
   aside { float: none; width: auto; text-align: left; padding-right: 0; }
   aside::after { display: none; }  
 }
+
+.press-contact .right-rail {
+  width: 8px;              
+  height: 100%;
+  background-color: #1e90ff;   
+  float: right;             
+  border-radius: 2px;
+}
+
+/* “Green box” at bottom of page */
+.green-box {
+  background-color: #16a34a;
+  color: #ffffff;               
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+}
